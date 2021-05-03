@@ -1,0 +1,3 @@
+[submodule "armyDataChallenge2020"]
+	path = armyDataChallenge2020
+	url = https://github.com/ahernandez105/armyDataChallenge2020.git
